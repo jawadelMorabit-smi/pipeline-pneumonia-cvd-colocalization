@@ -1,0 +1,18 @@
+# Internal / environment junk
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.RData
+.Rhistory
+node_modules/
+
+# Large raw data (download from FinnGen, see README)
+*.gz
+data.rar
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+~$*
+.~lock.*

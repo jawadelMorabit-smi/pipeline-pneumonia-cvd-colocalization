@@ -1,0 +1,17 @@
+locus	gene	in_CVD
+chr1 (CRP)	CRP	True
+chr1 (CRP)	CRPP1	False
+chr12 (HNF1A)	HNF1A	True
+chr12 (HNF1A)	HNF1A-AS1	False
+chr15	CHRNA3	True
+chr15	CHRNA5	True
+chr15	HYKK	False
+chr15	IREB2	False
+chr15	PSMA4	True
+chr2 (IFIH1)	IFIH1	False
+chr5 (CDH6)	CDH6	False
+chr6 (MHC)	HCP5	True
+chr6 (MHC)	HLA-DQA1	False
+chr6 (MHC)	HLA-DQB1	True
+chr9 (TNFSF15)	DEC1	False
+chr9 (TNFSF15)	TNFSF15	False

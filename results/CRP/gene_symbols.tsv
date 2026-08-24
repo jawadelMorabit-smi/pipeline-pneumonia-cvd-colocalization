@@ -1,0 +1,13 @@
+gene_id	symbol	description	tissu	PP.H3	PP.H4	profil
+ENSG00000158714	SLAMF8	SLAM family member 8 (immunite)	blood	1.000	1.6e-06	H3 (variants distincts)
+ENSG00000162729	IGSF8	immunoglobulin superfamily member 8	blood+lung	1.000	1.1e-08	H3 (variants distincts)
+ENSG00000122218	COPA	coatomer alpha (COPA syndrome, auto-immun/IFN)	blood	1.000	1.9e-10	H3 (variants distincts)
+ENSG00000162736	NCSTN	nicastrin (gamma-secretase)	blood	1.000	3.4e-21	H3 (variants distincts)
+ENSG00000143315	PIGM	GPI anchor biosynthesis class M	blood	1.000	4.6e-21	H3 (variants distincts)
+ENSG00000143318	CASQ1	calsequestrin 1 (muscle)	blood+lung	1.000	2.4e-21	H3 (variants distincts)
+ENSG00000272668	lncRNA	antisense to VSIG8	blood+lung	1.000	1.4e-16	H3 (variants distincts)
+ENSG00000288775	(non resolu)	-	lung	0.995	4.4e-04	H3 (variants distincts)
+ENSG00000163563	MNDA	myeloid cell nuclear differentiation antigen (immunite)	blood	0.157	3.2e-02	H1 (GWAS seul, eQTL faible)
+ENSG00000197403	OR6N1	olfactory receptor 6N1	blood+lung	0.111	1.0e-01	H1 (GWAS seul, eQTL faible)
+ENSG00000163568	AIM2	absent in melanoma 2 (inflammasome, immunite innee)	lung	0.232	3.5e-02	H1 (GWAS seul, eQTL faible)
+ENSG00000203757	OR6K3	olfactory receptor 6K3	lung	0.138	3.8e-02	H1 (GWAS seul, eQTL faible)
